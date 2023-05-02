@@ -1,21 +1,21 @@
 {
-  "name": "@cube-drone/js-util-template",
-  "version": "1.0.8",
-  "description": "You probably don't need to use this package directly, it's a template",
+  "name": "@cube-drone/chumproll",
+  "version": "1.0.0",
+  "description": "Test if your users have given you a stupid password for idiots",
   "main": "index.js",
   "scripts": {
     "test": "npx mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cube-drone/js-util-template.git"
+    "url": "git+https://github.com/cube-drone/chumproll.git"
   },
   "author": "Curtis Lassam",
   "license": "AGPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/cube-drone/js-util-template/issues"
+    "url": "https://github.com/cube-drone/chumproll/issues"
   },
-  "homepage": "https://github.com/cube-drone/js-util-template#readme",
+  "homepage": "https://github.com/cube-drone/chumproll#readme",
   "devDependencies": {
     "mocha": "^10.2.0"
   }
